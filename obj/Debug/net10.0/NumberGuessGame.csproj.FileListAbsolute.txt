@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\bin\Debug\net10.0\NumberGuessGame.exe
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\bin\Debug\net10.0\NumberGuessGame.deps.json
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\bin\Debug\net10.0\NumberGuessGame.runtimeconfig.json
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\bin\Debug\net10.0\NumberGuessGame.dll
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\bin\Debug\net10.0\NumberGuessGame.pdb
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.sourcelink.json
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.dll
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\obj\Debug\net10.0\refint\NumberGuessGame.dll
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.pdb
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DeitelPractices\NumberGuessGame\obj\Debug\net10.0\ref\NumberGuessGame.dll
